@@ -46,7 +46,7 @@ This design means any language can integrate with Flowgrate by implementing the 
 |------|-------------|
 | [core](https://github.com/flowgrate/core) | Go CLI + PostgreSQL adapter |
 | [dotnet](https://github.com/flowgrate/dotnet) | C# SDK — fluent Blueprint API |
-| [python](https://github.com/flowgrate/python) | Python SDK *(coming soon)* |
+| [python](https://github.com/flowgrate/python) | Python SDK |
 | [spec](https://github.com/flowgrate/spec) | JSON manifest spec — implement Flowgrate for any language |
 
 ## Quick start
